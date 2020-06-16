@@ -1,0 +1,16 @@
+package excelUtils;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class readExcel {
+	
+	public void readExcel() throws FileNotFoundException{
+		FileInputStream ofs= new FileInputStream("c:\\sdj.sds");
+		
+	}
+	
+	
+	
+
+}
